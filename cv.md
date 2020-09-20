@@ -1,14 +1,16 @@
- Mikhail Vashkevich
+ ## Mikhail Vashkevich
 
- Phone +375333405872; e-mail:crashvashkevich@gmail.com
+ ### Phone +375333405872; e-mail:crashvashkevich@gmail.com
+ 
+ 
 
-My goal is to find a dream job, always to be one step ahead.
+*My goal is to find a dream job, always to be one step ahead.
 Teamwork in a friendly and close-knit team is important for me, constant
 development of my personal and professional qualities, as well as decent pay
 these qualities. I am purposeful, attentive and responsible, I know how to work in a team.
 If I do something, then I do it efficiently and thoroughly delving into all the details.
 I have no experience in the field of development, but I have a great desire and aspiration
-get it!
+get it!*
 
 My skills: HTML, CSS, БЭМ, GIT, Gulp, SCSS.
 
