@@ -10,7 +10,7 @@ If I do something, then I do it efficiently and thoroughly delving into all the 
 I have no experience in the field of development, but I have a great desire and aspiration
 get it!*
 
-My skills: HTML, CSS, БЭМ, GIT, Gulp, SCSS.
+My skills: **HTML, CSS, БЭМ, GIT, Gulp, SCSS**.
 
 ```
 let fs = require('fs');
@@ -39,8 +39,8 @@ let path = {
  }
  ```
  
-I finished IT-academy's courses-"HTML, CSS and JavaScript" and
+I finished **IT-academy's** courses-**"HTML, CSS and JavaScript"** and
 self-aducation with **HTML Academy** online courses.
 
-My English level is Pre-Intermediate(A2+). I was listning evening courses of english in the "Minsk State Linguistic University"
+My English level is **Pre-Intermediate(A2+)**. I was listning evening courses of english in the **"Minsk State Linguistic University"**
 at the level Pre-Intermediate and Intermediate.    
