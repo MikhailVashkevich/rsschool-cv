@@ -1,9 +1,7 @@
  ## Mikhail Vashkevich
 
  ### Phone +375333405872; e-mail:crashvashkevich@gmail.com
- 
- 
-
+------
 *My goal is to find a dream job, always to be one step ahead.
 Teamwork in a friendly and close-knit team is important for me, constant
 development of my personal and professional qualities, as well as decent pay
