@@ -12,7 +12,7 @@ get it!*
 
 My skills: HTML, CSS, БЭМ, GIT, Gulp, SCSS.
 
-
+```
 let fs = require('fs');
 let path = {
      build: {
@@ -37,6 +37,7 @@ let path = {
      },
      clean: "./" + project_folder + "/"
  }
+ ```
  
 I finished IT-academy's courses-"HTML, CSS and JavaScript" and
 self-aducation with **HTML Academy** online courses.
